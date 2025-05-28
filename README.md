@@ -1,1 +1,1 @@
-Using the WeAreDevsApi, AI is involved in the creation of the program
+Using the WeAreDevsApi, the program was made with the participation of AI, and 80% of the UNC was tested
